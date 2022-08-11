@@ -1,3 +1,4 @@
 # LUDALOTTERO-FRONTEND
-cambio desde la web 11-8
+cambio desde la web 
 # cambio localmente
+cambio web 11-08
